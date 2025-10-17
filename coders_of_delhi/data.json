@@ -1,0 +1,24 @@
+{
+    "users": [
+        {"id":1,"name": "Amit" , "friends":[2,3],"liked_pages":[101,102]},
+        {"id":2,"name": "Taniya" , "friends":[1,4],"liked_pages":[102,103]},
+        {"id":3,"name": "Sakshi" , "friends":[1,5],"liked_pages":[103,104]},
+        {"id":4,"name": "Tanmaye" , "friends":[2,6],"liked_pages":[104,105]},
+        {"id":5,"name": "Rahul" , "friends":[3,7],"liked_pages":[105,106]},
+        {"id":6,"name": "Neha" , "friends":[4,8],"liked_pages":[106,107]},
+        {"id":7,"name": "Karan" , "friends":[5,8],"liked_pages":[107,108]},
+        {"id":8,"name": "Anita" , "friends":[6,7],"liked_pages":[108,101]}
+    ],
+    "pages": [
+        {"id":101,"name":"Java Developer"},
+        {"id":102,"name":"AI Developer"},
+        {"id":103,"name":"Python Developer"},
+        {"id":104,"name":"Web Developer"},
+        {"id":105,"name":"Data Scientist"},
+        {"id":106,"name":"Machine Learning Engineer"},
+        {"id":107,"name":"Frontend Developer"},
+        {"id":108,"name":"Backend Developer"}
+    ]
+}
+
+

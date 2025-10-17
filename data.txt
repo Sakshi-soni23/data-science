@@ -1,0 +1,12 @@
+{
+"users":[
+           {"id":1,"name":"Amit","friends":[2,3],"liked_pages":[101]},
+           {"id":2,"name":"Nakul","friends":[1,4],"liked_pages":[102]},
+           {"id":3,"name":"Shreya","friends":[1],"liked_pages":[103]},
+           {"id":4,"name":"kajal","friends":[2],"liked_pages":[104]}
+],
+"pages":[
+{"id":101,"name":"Python_Developer"},
+{"id":102,"name":"AI and ML Developer"},
+{"id":103,"name":"JAVA Developer"},
+{"id":104,"name":"Developer"},
